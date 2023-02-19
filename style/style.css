@@ -47,6 +47,10 @@ background-color: rgb(180, 207, 212);
 
 }
 
+.last{
+    margin-left: 20px;
+}
+
 .input_name span{
     position: absolute;
     font-size: 18px;
